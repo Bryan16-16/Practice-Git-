@@ -77,8 +77,3 @@ function forEmptyInput() {
     addTaskToObject();
   }
 }
-
-//testing
-
-
-//testing git with vs code
