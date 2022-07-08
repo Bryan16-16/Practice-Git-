@@ -77,5 +77,3 @@ function forEmptyInput() {
     addTaskToObject();
   }
 }
-
-//testing
